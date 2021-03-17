@@ -1,0 +1,9 @@
+{
+  "name": "remembering-js",
+  "version": "0.0.0",
+  "description": "RememberingJS",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
